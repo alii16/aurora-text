@@ -41,6 +41,11 @@ body {
     margin: 0;
 }
 
+.subtitle {
+    font-weight : bold;
+    color: #fff;
+}
+
 .aurora {
     position: absolute;
     top: 0;
@@ -188,3 +193,14 @@ body {
         border-radius: 37% 29% 27% 27% / 28% 25% 41% 37%;
     }
 }
+
+#button {
+    font-weight : bold;
+    color: yellow;
+    text-decoration: none;
+}
+
+#button:hover {
+    color: gold;
+}
+
